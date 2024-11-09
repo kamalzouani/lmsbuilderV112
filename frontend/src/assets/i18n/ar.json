@@ -1,0 +1,271 @@
+{
+    "from-to": "العناصر من {first} إلى {last} (الإجمالي {totalRecords})",
+    "new": "جديد",
+    "search": "بحث",
+    "export": "تصدير",
+    "validate": "التحقق",
+    "search": "البحث...",
+    "delete": "حذف",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "next": "التالي",
+    "yes": "نعم",
+    "no": "لا",
+    "actions": "الإجراءات",
+    "confirm": "تأكيد",
+    "creation": "إنشاء",
+    "list": "قائمة",
+
+    "actionPermission": {
+        "reference": "المرجع",
+        "libelle": "التسمية",
+        "actionPermission": "إذن الإجراء",
+        "tabPan": "إذن الإجراء",
+        "header": "قائمة أذونات الإجراءات",
+        "deleteActionPermissionConfirmationMessage": "هل أنت متأكد أنك تريد حذف إذن الإجراء؟",
+        "deleteActionPermissionsConfirmationMessage": "هل أنت متأكد أنك تريد حذف العناصر المحددة؟"
+    },
+
+    "modelPermissionUser": {
+        "actionPermission": "إذن الإجراء",
+        "actionPermissionPlaceHolder": "اختر إذن الإجراء",
+        "actionPermissionPlaceHolderFilter": "البحث حسب إذن الإجراء",
+        "modelPermission": "إذن النموذج",
+        "modelPermissionPlaceHolder": "اختر إذن النموذج",
+        "modelPermissionPlaceHolderFilter": "البحث حسب إذن النموذج",
+        "value": "القيمة",
+        "user": "المستخدم",
+        "userPlaceHolder": "اختر مستخدمًا",
+        "userPlaceHolderFilter": "البحث حسب المستخدم",
+        "subAttribute": "السمة الفرعية",
+        "modelPermissionUser": "إذن مستخدم النموذج",
+        "tabPan": "إذن مستخدم النموذج",
+        "header": "قائمة مستخدمي إذن النموذج",
+        "deleteModelPermissionUserConfirmationMessage": "هل أنت متأكد أنك تريد حذف مستخدم إذن النموذج؟",
+        "deleteModelPermissionUsersConfirmationMessage": "هل أنت متأكد أنك تريد حذف العناصر المحددة؟"
+    },
+
+    "role": {
+        "authority": "السلطة",
+        "role": "الدور",
+        "tabPan": "الدور",
+        "header": "قائمة الأدوار",
+        "deleteRoleConfirmationMessage": "هل أنت متأكد أنك تريد حذف الدور؟",
+        "deleteRolesConfirmationMessage": "هل أنت متأكد أنك تريد حذف العناصر المحددة؟"
+    },
+
+    "roleUser": {
+        "role": "الدور",
+        "rolePlaceHolder": "اختر دورًا",
+        "rolePlaceHolderFilter": "البحث حسب الدور",
+        "user": "المستخدم",
+        "userPlaceHolder": "اختر مستخدمًا",
+        "userPlaceHolderFilter": "البحث حسب المستخدم",
+        "roleUser": "دور المستخدم",
+        "tabPan": "دور المستخدم",
+        "header": "قائمة مستخدمي الدور",
+        "deleteRoleUserConfirmationMessage": "هل أنت متأكد أنك تريد حذف مستخدم الدور؟",
+        "deleteRoleUsersConfirmationMessage": "هل أنت متأكد أنك تريد حذف العناصر المحددة؟"
+    },
+
+    "user": {
+        "credentialsNonExpired": "صلاحية الاعتماد غير منتهية",
+        "enabled": "مفعل",
+        "email": "البريد الإلكتروني",
+        "accountNonExpired": "الحساب غير منتهي",
+        "accountNonLocked": "الحساب غير مقفل",
+        "username": "اسم المستخدم",
+        "password": "كلمة المرور",
+        "passwordChanged": "تم تغيير كلمة المرور",
+        "modelPermissionUsers": "مستخدمو إذن النموذج",
+        "roleUsers": "مستخدمو الدور",
+        "RoleUsersPlaceHolder": "حدد عدة أدوار",
+        "user": "المستخدم",
+        "tabPan": "المستخدم",
+        "header": "قائمة المستخدمين",
+        "deleteUserConfirmationMessage": "هل أنت متأكد أنك تريد حذف المستخدم؟",
+        "deleteUsersConfirmationMessage": "هل أنت متأكد أنك تريد حذف العناصر المحددة؟"
+    },
+
+	"modelPermission": {
+		"reference": "المرجع",
+		"libelle": "التسمية",
+		"modelPermission": "إذن النموذج",
+		"tabPan": "إذن النموذج",
+		"header": "قائمة أذونات النماذج",
+		"deleteModelPermissionConfirmationMessage": "هل أنت متأكد أنك تريد حذف إذن النموذج؟",
+		"deleteModelPermissionsConfirmationMessage": "هل أنت متأكد أنك تريد حذف العناصر المحددة؟"
+	},
+
+
+
+    "payment":{
+        "amount": "Amount",
+        "amountMin": "Amount Min",
+        "amountMax": "Amount Max",
+        "paymentDate": "Payment date",
+        "paymentDateMin": "Payment date Min",
+        "paymentDateMax": "Payment date Max",
+        "status": "Status",
+        "student": "Student",
+        "studentPlaceHolder": "Select a Student",
+        "studentPlaceHolderFilter": "Search by Student",
+        "course": "Course",
+        "coursePlaceHolder": "Select a Course",
+        "coursePlaceHolderFilter": "Search by Course",
+        "payment": "Payment",
+        "tabPan": "Payment",
+        "header": "Liste des payments",
+        "deletePaymentConfirmationMessage": "Are you sure you want to delete payment",
+        "deletePaymentsConfirmationMessage": "Are you sure you want to delete the selected elements"
+    },
+
+
+    "category":{
+        "name": "Name",
+        "description": "Description",
+        "category": "Category",
+        "tabPan": "Category",
+        "header": "Liste des categorys",
+        "deleteCategoryConfirmationMessage": "Are you sure you want to delete category",
+        "deleteCategorysConfirmationMessage": "Are you sure you want to delete the selected elements"
+    },
+
+
+    "courseModule":{
+        "name": "Name",
+        "description": "Description",
+        "order": "Order",
+        "orderMin": "Order Min",
+        "orderMax": "Order Max",
+        "duration": "Duration",
+        "durationMin": "Duration Min",
+        "durationMax": "Duration Max",
+        "course": "Course",
+        "coursePlaceHolder": "Select a Course",
+        "coursePlaceHolderFilter": "Search by Course",
+        "moduleContents": "Module contents",
+        "courseModule": "Course module",
+        "tabPan": "Course module",
+        "header": "Liste des course modules",
+        "deleteCourseModuleConfirmationMessage": "Are you sure you want to delete course module",
+        "deleteCourseModulesConfirmationMessage": "Are you sure you want to delete the selected elements"
+    },
+
+
+    "instructor":{
+        "bio": "Bio",
+        "expertise": "Expertise",
+        "courses": "Courses",
+        "credentialsNonExpired": "Credentials non expired",
+        "enabled": "Enabled",
+        "email": "Email",
+        "password": "Password",
+        "accountNonLocked": "Account non locked",
+        "passwordChanged": "Password changed",
+        "username": "Username",
+        "accountNonExpired": "Account non expired",
+        "instructor": "Instructor",
+        "tabPan": "Instructor",
+        "header": "Liste des instructors",
+        "deleteInstructorConfirmationMessage": "Are you sure you want to delete instructor",
+        "deleteInstructorsConfirmationMessage": "Are you sure you want to delete the selected elements"
+    },
+
+
+    "student":{
+        "firstName": "First name",
+        "lastName": "Last name",
+        "phone": "Phone",
+        "courses": "Courses",
+        "credentialsNonExpired": "Credentials non expired",
+        "enabled": "Enabled",
+        "email": "Email",
+        "password": "Password",
+        "accountNonLocked": "Account non locked",
+        "passwordChanged": "Password changed",
+        "username": "Username",
+        "accountNonExpired": "Account non expired",
+        "student": "Student",
+        "tabPan": "Student",
+        "header": "Liste des students",
+        "deleteStudentConfirmationMessage": "Are you sure you want to delete student",
+        "deleteStudentsConfirmationMessage": "Are you sure you want to delete the selected elements"
+    },
+
+
+    "moduleContent":{
+        "name": "Name",
+        "description": "Description",
+        "type": "Type",
+        "url": "Url",
+        "module": "Module",
+        "modulePlaceHolder": "Select a Module",
+        "modulePlaceHolderFilter": "Search by Module",
+        "moduleContent": "Module content",
+        "tabPan": "Module content",
+        "header": "Liste des module contents",
+        "deleteModuleContentConfirmationMessage": "Are you sure you want to delete module content",
+        "deleteModuleContentsConfirmationMessage": "Are you sure you want to delete the selected elements"
+    },
+
+
+    "course":{
+        "name": "Name",
+        "description": "Description",
+        "startDate": "Start date",
+        "startDateMin": "Start date Min",
+        "startDateMax": "Start date Max",
+        "endDate": "End date",
+        "endDateMin": "End date Min",
+        "endDateMax": "End date Max",
+        "duration": "Duration",
+        "durationMin": "Duration Min",
+        "durationMax": "Duration Max",
+        "level": "Level",
+        "price": "Price",
+        "priceMin": "Price Min",
+        "priceMax": "Price Max",
+        "instructor": "Instructor",
+        "instructorPlaceHolder": "Select a Instructor",
+        "instructorPlaceHolderFilter": "Search by Instructor",
+        "category": "Category",
+        "categoryPlaceHolder": "Select a Category",
+        "categoryPlaceHolderFilter": "Search by Category",
+        "courseModules": "Course modules",
+        "course": "Course",
+        "tabPan": "Course",
+        "header": "Liste des courses",
+        "deleteCourseConfirmationMessage": "Are you sure you want to delete course",
+        "deleteCoursesConfirmationMessage": "Are you sure you want to delete the selected elements"
+    },
+
+
+    "enrollment":{
+        "enrollmentDate": "Enrollment date",
+        "enrollmentDateMin": "Enrollment date Min",
+        "enrollmentDateMax": "Enrollment date Max",
+        "startDate": "Start date",
+        "startDateMin": "Start date Min",
+        "startDateMax": "Start date Max",
+        "endDate": "End date",
+        "endDateMin": "End date Min",
+        "endDateMax": "End date Max",
+        "status": "Status",
+        "student": "Student",
+        "studentPlaceHolder": "Select a Student",
+        "studentPlaceHolderFilter": "Search by Student",
+        "course": "Course",
+        "coursePlaceHolder": "Select a Course",
+        "coursePlaceHolderFilter": "Search by Course",
+        "enrollment": "Enrollment",
+        "tabPan": "Enrollment",
+        "header": "Liste des enrollments",
+        "deleteEnrollmentConfirmationMessage": "Are you sure you want to delete enrollment",
+        "deleteEnrollmentsConfirmationMessage": "Are you sure you want to delete the selected elements"
+    },
+
+"appName": "GED"
+}
+
+
